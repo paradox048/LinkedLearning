@@ -1,0 +1,21 @@
+________________
+//Java Pathway//
+----------------
+Basics:
+ --> Object Oriented Programming: https://moocfi.github.io/courses/2013/programming-part-1/
+ --> Programming by doing: http://www.programmingbydoing.com/
+ --> Programming Methodology: https://see.stanford.edu/Course/CS106A
+
+Java Libraries:
+ --> JUnit: https://github.com/junit-team/junit4/wiki/Getting-started
+ --> Spring: https://www.tutorialspoint.com/spring/
+ --> Spark: http://sparkjava.com/documentation#getting-started
+
+Advanced:
+ --> Advanced Java Concepts: https://www.edureka.co/blog/advanced-java-tutorial
+ --> Advanced Java Book: https://enos.itcollege.ee/~jpoial/allalaadimised/reading/Advanced-java.pdf
+
+Tools:
+ --> GeeksforGeeks: https://www.geeksforgeeks.org
+ --> Dev Community: https://dev.to
+ --> HackerRank: https://www.hackerrank.com

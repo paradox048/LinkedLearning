@@ -1,0 +1,22 @@
+_______________________
+//Mathematics Pathway//
+-----------------------
+Basics:
+ --> Khan Academy LinkedLearning.Math: https://www.khanacademy.org/math
+ --> Map of Mathematics: https://www.youtube.com/watch?v=OmJ-4B-mS-Y
+ --> Math Concepts Visually: https://setosa.io/ev/
+
+Intermediate:
+ --> Functions: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions
+ --> High school Geometry: https://www.khanacademy.org/math/geometry
+ --> How To Read Mathematics: http://web.stonehill.edu/compsci/History_Math/math-read.htm
+
+Advanced:
+ --> Calculus: http://computo.fismat.umich.mx/%7Efhernandez/Cursos/Calculo2015/spivak.pdf
+ --> Integration: https://www.youtube.com/watch?v=rfG8ce4nNh0
+ --> Sets: https://www.scottaaronson.com/democritus/lec2.html
+
+Tools:
+ --> Wolfram Alpha: https://www.wolframalpha.com/
+ --> Math Live Playground: https://mathlive.io/sprint14/index.html
+ --> Online LinkedLearning.Math Textbooks: http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html

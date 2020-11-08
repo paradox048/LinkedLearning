@@ -1,0 +1,23 @@
+_____________________
+//Chemistry Pathway//
+---------------------
+Basics:
+ --> Crash Course In Chemistry: https://www.youtube.com/watch?v=FSyAehMdpyI&amp;list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr
+ --> Intro to Chemistry: https://www.youtube.com/watch?v=bka20Q9TN6M
+ --> ChemGuide: http://www.chemguide.co.uk
+
+Intermediate:
+ --> AP Chemistry Essentials: https://www.youtube.com/playlist?list=PLllVwaZQkS2op2kDuFifhStNsS49LAxkZ
+ --> Khan Academy: https://www.khanacademy.org/science/chemistry
+ --> Organic Chemistry: https://www.khanacademy.org/science/organic-chemistry
+
+Advanced:
+ --> Molecular Symmetry: http://symmetry.otterbein.edu/
+ --> Organic Chemistry: https://www.youtube.com/watch?v=gsfstgwZJTg&list=PLqOZ6FD_RQ7mfiAfa8nNwbY6RT2ZPDF9K
+ --> Chemical Bonding: https://www.youtube.com/watch?v=gsfstgwZJTg&list=PLqOZ6FD_RQ7mfiAfa8nNwbY6RT2ZPDF9K
+
+Tools:
+ --> 3D Periodic Table: https://graphoverflow.com/graphs/3d-periodic-table.html
+ --> Reddit Chemistry Community: https://www.reddit.com/r/chemistry/
+ --> StackExchange Chemistry Community: https://chemistry.stackexchange.com
+
